@@ -19,7 +19,8 @@ Power BI | Power Query | DAX | Excel | ETL | Forecasting | Data Modeling
 - Sales increased consistently from 2014 to 2018.
 
 ## 📁 Dataset
-Sample Superstore dataset (Kaggle)
+[Sample Superstore (Kaggle)](https://www.kaggle.com/datasets/abiodunonadeji/united-state-superstore-sales)
+
 
 ## 📸 Dashboard Snapshot
 ![Dashboard Preview](dashboard_overview.png)
